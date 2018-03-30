@@ -14,8 +14,8 @@ python main.py --port 8082
 ```
 
 To test this application, go to this address in a web browser:
-"http://127.0.0.1:8081/My Address"
+http://127.0.0.1:8081/MyAddress
 
 For example, go to:
-"http://127.0.0.1:8081/University of Alberta"
+http://127.0.0.1:8081/University%20of%20Alberta
 
