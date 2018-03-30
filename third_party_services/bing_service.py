@@ -11,7 +11,6 @@ class BingService(ThirdPartyGeocoder):
         uri = 'http://dev.virtualearth.net/REST/v1/Locations' + \
                      '?q=' + address + \
                      '&key=' + key
-        # http://dev.virtualearth.net/REST/v1/Locations?q=1%20Microsoft%20Way%20Redmond%20WA%2098052&o=xml&key=BingMapsKey
 
         return uri
 
