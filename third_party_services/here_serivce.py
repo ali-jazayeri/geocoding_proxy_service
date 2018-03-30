@@ -13,7 +13,7 @@ class HereService(ThirdPartyGeocoder):
                    '?searchtext=' + address + \
                    '&app_id=' + app_id + \
                    '&app_code=' + app_code +\
-                   'gen=8'
+                   '&gen=8'
         return uri
 
     def get_location_from_api_json_response(self, json_api_response):
