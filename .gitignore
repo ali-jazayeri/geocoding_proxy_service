@@ -1,0 +1,25 @@
+*.pyc
+*.swp
+venv/
+.idea/
+dist/
+MANIFEST
+report.html
+log.html
+output.xml
+*.egg-info/
+docs/
+results/
+.project
+.pydevproject
+automation.log*
+build/
+*.zip
+*.bak
+*.pdl
+*.log
+*.gds
+IDETemp/
+temp/
+* Copy/
+*RTDBMarker.xml
