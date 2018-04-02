@@ -4,6 +4,11 @@ A proxy service for geocoding allowing to resolve the latitude and longitude coo
 Author: Ali Jazayeri
 Date: 2018-03-29
 
+To install this service on a new environment, run the setup command:
+```
+python setup.py install
+```
+
 To run this service, run the main.py:
 ```
 python main.py
